@@ -1,8 +1,8 @@
 <h1 align="center">
     <img 
-        src="./src/assets/logo.svg"
+        src="https://media.giphy.com/media/LdOyjZ7io5Msw/giphy.gif"
         width="300px"
-        alt="Dt money"
+        alt="MONEEEEEEEY"
     >
 </h1>
 
